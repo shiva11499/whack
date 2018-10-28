@@ -17,7 +17,7 @@ alerts. So for this, we have embedded a microphone sensor in the glove that will
 sudden change in the amplitude of sound. This is done using sound recognition API of Google. This way we can alert them about any 
 exigency around them. 
 
-
+/home/bhawana/Downloads/20181028_050413.jpg
 NOVELTIES
 
 1. Perfect Assistant for Mute and Deaf person
