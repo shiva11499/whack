@@ -39,4 +39,3 @@ with sr.Microphone(device_index = 002, sample_rate = sample_rate, chunk_size = c
         print("Google Speech Recognition could not understand audio")
     except sr.RequestError as e:
         print("Could not request results ,{0}".format(e))
-        
